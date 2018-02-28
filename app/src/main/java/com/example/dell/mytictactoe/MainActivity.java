@@ -181,4 +181,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     //First Commit in MainActivity
 //second commit in main activity on desktop git
 //third commit in main activity on desktop git
+    //First Commit in newbranch
+    //second commit in newbranch
+    //Second Commit in mainActivity
+    //Third one
+    //Fourth one
+//one last time this push and pull
 }
